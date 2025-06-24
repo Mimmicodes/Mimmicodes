@@ -10,10 +10,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me:** mailto:(subhashree.pattanaik72@gmail.com)(2470359@kiit.ac.in) or [LINKEDIN](http://www.linkedin.com/in/subhashree-pattanaik-3290091b9)**
 - 😄 Pronouns:**she/her**
 - ⚡ Fun fact:**I love painting, playing sports, and learning new tech skills in my free time.**
+
 -🏆Achievements:**AWS certification**
+
                 **Participated in KIITFEST Hackathon**
 
  -🎯 Interests: -**Open source**
+ 
                  - **Cloud computing**
+                 
                  -**AI ML**
 
