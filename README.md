@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:**I love painting, playing sports, and learning new tech skills in my free time.**
 -🏆Achievements:**AWS certification**
                 **Participated in KIITFEST Hackathon**
+
  -🎯 Interests: -**Open source**
                  - **Cloud computing**
                  -**AI ML**
