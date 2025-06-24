@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns:**she/her**
 - ⚡ Fun fact:**I love painting, playing sports, and learning new tech skills in my free time.**
 
--🏆Achievements:**AWS certification**
+-🏆Achievements:**AWS certification**,
                  **Participated in KIITFEST Hackathon**
 
  -🎯 Interests: -**Open source**
